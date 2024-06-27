@@ -25,3 +25,6 @@ use the new skin
 
 That's It...
 Enjoy!
+
+## MusicBee Official Link
+https://getmusicbee.com/addons/skins/509/blossom-theme/
