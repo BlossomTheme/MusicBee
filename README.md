@@ -1,8 +1,12 @@
 # Blossom Theme for Gnome-Terminal
 
 ## Preview
+![](./cover.png)
 ![](./screenshot01.png)
-
+![](./screenshot02.png)
+![](./screenshot03.png)
+![](./screenshot04.png)
+![](./screenshot05.png)
 
 ## Installation
 
