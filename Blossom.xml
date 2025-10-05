@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<!-- Version: 1.2 -->
+<!-- Version: 1.3 -->
 
 <root>
       <variables>
@@ -96,6 +96,8 @@
   <element id="TabsVBar.Tab.Default" bg="Background" fg="Tertiary-Text" />
 
 \\ SIDE PANELS
+\\ VOLUME VISUALUZER
+<element id="VolumeVisualiser" bg="Background" fg="110, 0, 60" fg2="252, 61, 165" />
 \\ --- NAVIGATOR HEADERS (AND 'ORDER+ARTWORK SIZE' MAIN PANEL BAR IF Content[Artwork].Header IS DISABLED)
   <element id="Panel.SectionHeader.Default" bg="Background" bg2="Background" fg="Tertiary-Text" />
 \\ --- NAVIGATOR BODY (AND LIBRARY EXPLORER 'SUP+INF TAB BORDERS')  
